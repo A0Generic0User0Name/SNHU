@@ -1,3 +1,5 @@
+Caleb.
+
 Essential Questions
 How do I interpret user needs and implement them?
 I listen to the user's problems and translate them into features. User stories help by framing needs from the user's perspective, ensuring we build what actually provides them value.
